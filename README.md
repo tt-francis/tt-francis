@@ -13,7 +13,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/tt-francis/threat-hunting-scenario-tor)**
 
 ## 🔐 SafeLine WAF Cybersecurity Lab
-- **[SafeLine WAF Deployment on Demo Investment Platform]()**
+- **[SafeLine WAF Deployment on Demo Investment Platform](https://github.com/tt-francis/safeline-waf-lab)**
 
 <hr/>
 
