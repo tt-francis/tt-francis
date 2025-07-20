@@ -27,7 +27,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://x.com/nullxtrace
 [youtube]: https://www.youtube.com/@nullxtrace
 [medium]: https://medium.com/@nullxtrace
-[linkedin]: https://www.linkedin.com/in/temitope-titiloye-011b71b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+[linkedin]: http://linkedin.com/in/temitope-titiloye
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
